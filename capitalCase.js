@@ -1,4 +1,4 @@
-function toCapitaCase() {
+function toCapitalCase() {
   let string = 'lorem ipsum stan';
   var splits = string.split(" ");
   var update = "";
@@ -12,4 +12,4 @@ function toCapitaCase() {
 
   console.log(update)
 }
-toCapitaCase();
+toCapitalCase();
